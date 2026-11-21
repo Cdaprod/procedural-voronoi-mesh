@@ -86,7 +86,7 @@ def _check_asset_manifest(root: Path, errors: list[str]) -> None:
             continue
         digest = hashlib.sha256(asset.read_bytes()).hexdigest()
         if record.get("sha256") != digest:
-            errors.append(f"{manifest}: checksum mismatch for {rel}")
+            errors.append(f"{manifest}: checksum mismatch for {rel}; expected {record.get('sha256')}, actual {digest}")
         expected_url = "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/" + rel
         if record.get("public_url") != expected_url:
             errors.append(f"{manifest}: public URL does not match path for {rel}")

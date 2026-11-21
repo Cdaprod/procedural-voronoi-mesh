@@ -8,9 +8,21 @@ The enclosure images below are computational review artifacts from the saved eng
 
 The actual controller board supplied the connector arrangement and the interfaces the enclosure needed to preserve.
 
+![Full top-side photograph of the Doesbot controller PCB](../assets/images/hardware/doesbot-board-top.jpeg)
+
+*Physical board overview used as a placement reference. Visible component positions are not a substitute for measured envelope dimensions.*
+
 ![Real Doesbot CNC controller terminal blocks on the PCB](../assets/images/hardware/doesbot-terminal-blocks.jpg)
 
 *User-supplied hardware photograph. It is a close-up reference, not a dimensioned drawing.*
+
+The stepper-drive headers and adapter hardware are useful supplementary references because a component's usable envelope includes connectors, installed accessories, and access space—not just the board outline.
+
+![Stepper-drive header hardware on the Doesbot board](../assets/images/hardware/doesbot-stepper-drive-headers.jpeg)
+
+![MKS driver adapter hardware documented during the project](../assets/images/hardware/mks-driver-adapters.jpeg)
+
+*Physical reference images only. Connector compatibility, installed orientation, dimensions, and clearances must be established independently.*
 
 The FreeCAD reference assembly let me inspect the PCB, connector bodies, terminal groups, headers, and mounting locations together.
 
@@ -25,6 +37,10 @@ The header detail shows why the 8×2 and 10×2 pin components needed to remain v
 ## Master references and access geometry
 
 I used the constrained PCB master as the positional authority. The recovered R08 dependency chain links the terminal housing placement to each screw axis, then links the axis to native access features.
+
+![FreeCAD Sketcher master geometry for the controller board layout](../assets/images/freecad/doesbot-freecad-master-sketch.jpeg)
+
+*The saved sketch records construction geometry and reference constraints used during PCB layout modeling.*
 
 ![R08 housing to screw axes to native access tools](../assets/images/freecad/r08-master-linked-references.png)
 

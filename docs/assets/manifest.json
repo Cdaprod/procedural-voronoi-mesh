@@ -20,6 +20,16 @@
     "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/details/v005-header-pin-visibility.png"
   },
   {
+    "file": "docs/assets/images/freecad/doesbot-freecad-master-sketch.jpeg",
+    "sha256": "TO_BE_FILLED_FROM_CI",
+    "attribution": "David Cannan (Cdaprod)",
+    "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
+    "status": "historical FreeCAD sketch reference",
+    "media_type": "CAD application screenshot",
+    "caption": "historical FreeCAD Sketcher screenshot showing PCB master geometry and constraint references",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/freecad/doesbot-freecad-master-sketch.jpeg"
+  },
+  {
     "file": "docs/assets/images/freecad/r08-master-linked-references.png",
     "sha256": "0bd54c7ed7661c46aa2cc355eda5edd9c90094aa759db8e2f54ab65c514c3677",
     "attribution": "David Cannan (Cdaprod)",
@@ -31,6 +41,26 @@
     "media_type": "CAD-derived image"
   },
   {
+    "file": "docs/assets/images/hardware/doesbot-board-top.jpeg",
+    "sha256": "TO_BE_FILLED_FROM_CI",
+    "attribution": "David Cannan (Cdaprod)",
+    "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
+    "status": "physical board-layout reference",
+    "media_type": "photograph",
+    "caption": "physical top-side overview of the Doesbot controller PCB",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/hardware/doesbot-board-top.jpeg"
+  },
+  {
+    "file": "docs/assets/images/hardware/doesbot-stepper-drive-headers.jpeg",
+    "sha256": "TO_BE_FILLED_FROM_CI",
+    "attribution": "David Cannan (Cdaprod)",
+    "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
+    "status": "physical interface reference; dimensions and electrical mapping unverified",
+    "media_type": "photograph",
+    "caption": "physical reference photograph of the Doesbot stepper-drive header area",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/hardware/doesbot-stepper-drive-headers.jpeg"
+  },
+  {
     "file": "docs/assets/images/hardware/doesbot-terminal-blocks.jpg",
     "sha256": "8b30e0c733939af10fe52f45b756272bbd787782b8219cb8330f9d94ed298731",
     "attribution": "David Cannan (Cdaprod)",
@@ -40,6 +70,16 @@
     "source": "user-supplied real Doesbot PCB photograph; EXIF stripped",
     "status": "physical hardware reference",
     "media_type": "photograph"
+  },
+  {
+    "file": "docs/assets/images/hardware/mks-driver-adapters.jpeg",
+    "sha256": "TO_BE_FILLED_FROM_CI",
+    "attribution": "David Cannan (Cdaprod)",
+    "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
+    "status": "physical accessory reference; fit and pinout unverified",
+    "media_type": "photograph",
+    "caption": "physical reference photograph of MKS driver adapter hardware",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/hardware/mks-driver-adapters.jpeg"
   },
   {
     "file": "docs/assets/images/presets/coarse-facets.png",

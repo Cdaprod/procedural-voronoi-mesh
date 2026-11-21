@@ -2,6 +2,14 @@
 
 I started with a practical problem: model an enclosure around a Doesbot controller without losing the relationship between its connectors, header pins, terminal screws, and mounting points. The organic Voronoi surface was the visible part, but the mechanical references were what made it useful.
 
+![Physical top-side photograph of the Doesbot CNC controller PCB](../assets/images/hardware/doesbot-board-top.jpeg)
+
+*The real hardware supplied the initial layout problem; connector dimensions were addressed through measured and modeled references rather than inferred solely from photographs.*
+
+![Original FreeCAD Sketcher master reference for the controller PCB](../assets/images/freecad/doesbot-freecad-master-sketch.jpeg)
+
+*The working Sketcher view captures the geometric reference stage that preceded the procedural enclosure roof.*
+
 ![Blender Cycles render of the V24 enclosure assembly that motivated the public geometry tool](../assets/images/showcase/closed.jpg)
 
 *This is a computational enclosure review render. It is separate from the public generator’s planar sample outputs and does not establish physical fit.*
