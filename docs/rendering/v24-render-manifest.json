@@ -1,0 +1,123 @@
+{
+  "renderer": "Blender",
+  "blender_version": "5.2.0 LTS",
+  "render_engine": "Cycles",
+  "device": "METAL: Apple M1 Pro (GPU - 14 cores)",
+  "preset": "master",
+  "resolution": [
+    3840,
+    2160
+  ],
+  "samples": 160,
+  "denoise": true,
+  "coordinate_system": "saved native assembly frame; mm; Z up; imported meshes are not rescaled or rotated",
+  "exploded_view_transforms": {
+    "cover": 48.0,
+    "pcb": 20.0,
+    "components": 20.0,
+    "r07": 20.0,
+    "r08": 20.0,
+    "pins": 20.0
+  },
+  "inputs": {
+    "lid": {
+      "filename": "lid.stl",
+      "sha256": "cde40fa7f35c751b66fc17eb0af0882e994b0c7aa6b8cf74444247758514d324"
+    },
+    "base": {
+      "filename": "base.stl",
+      "sha256": "9642bb2fd7640137661e107cd8473642f25f44a31b6c98295b9e193302ff05a0"
+    },
+    "assembly": {
+      "filename": "assembly.obj",
+      "sha256": "cd4540c628ca1d02b3d42665e190e0a271eec75647845d688857b1e120fe34ba"
+    },
+    "config": {
+      "filename": "doesbot-v24-blender.json",
+      "sha256": "fc8e6907ee7c703b669ae435862872dc86dad1fcc4be224e32f3e58789386101"
+    }
+  },
+  "renders": [
+    {
+      "view": "closed",
+      "bounds_mm": [
+        [
+          -66.66666412353516,
+          -47.602500915527344,
+          -12.0
+        ],
+        [
+          66.66666412353516,
+          47.602500915527344,
+          21.739999771118164
+        ]
+      ],
+      "output": "closed.png"
+    },
+    {
+      "view": "exploded",
+      "bounds_mm": [
+        [
+          -66.66666412353516,
+          -47.602500915527344,
+          -12.0
+        ],
+        [
+          66.66666412353516,
+          47.602500915527344,
+          69.73999786376953
+        ]
+      ],
+      "output": "exploded.png"
+    },
+    {
+      "view": "lid-exterior",
+      "bounds_mm": [
+        [
+          -65.0,
+          -45.474998474121094,
+          0.0
+        ],
+        [
+          65.0,
+          45.474998474121094,
+          21.739999771118164
+        ]
+      ],
+      "output": "lid-exterior.png"
+    },
+    {
+      "view": "lid-underside",
+      "bounds_mm": [
+        [
+          -65.0,
+          -45.474998474121094,
+          0.0
+        ],
+        [
+          65.0,
+          45.474998474121094,
+          21.739999771118164
+        ]
+      ],
+      "output": "lid-underside.png"
+    },
+    {
+      "view": "base",
+      "bounds_mm": [
+        [
+          -66.66666412353516,
+          -47.602500915527344,
+          -12.0
+        ],
+        [
+          66.66666412353516,
+          47.602500915527344,
+          1.5
+        ]
+      ],
+      "output": "base.png"
+    }
+  ],
+  "generated_utc": "2026-11-21T18:10:08.689852+00:00"
+}
