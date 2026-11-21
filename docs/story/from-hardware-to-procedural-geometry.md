@@ -6,9 +6,21 @@ I’m David Cannan. I work through hardware problems with programming, automatio
 
 The controller already had terminal blocks, headers, flush connector interfaces, and mounting features. An enclosure could look interesting and still fail at its job if it covered a connector or put a support into a component. I used the physical board and its saved references to define the mechanical problem.
 
+![Top-side photograph of the original Doesbot CNC controller board](../assets/images/hardware/doesbot-board-top.jpeg)
+
+*The physical board establishes the overall relationship between connectors, expansion headers, and mounting areas. It is a layout reference, not a calibrated measurement.*
+
 ![Real Doesbot PCB terminal blocks photographed during the enclosure work](../assets/images/hardware/doesbot-terminal-blocks.jpg)
 
 *The close-up is a user-supplied hardware photograph. It documents the terminals, not calibrated dimensions.*
+
+The stepper-drive interface and associated adapter hardware also mattered when deciding what could occupy the area above the PCB. Those are separate physical references, not permission to infer pin assignments or connector clearances from photographs.
+
+![Physical stepper-drive header reference on the Doesbot controller](../assets/images/hardware/doesbot-stepper-drive-headers.jpeg)
+
+![MKS driver adapter hardware referenced during the controller enclosure work](../assets/images/hardware/mks-driver-adapters.jpeg)
+
+*These photographs document hardware being considered in the design. They do not establish interchangeability, exact connector pinouts, or fitted assembly clearance.*
 
 The full PCB model and its installed component references made the placement relationships easier to inspect than the close-up alone. The header rows and connector bodies were useful for checking where an opening or support could go, although some component shapes remained simplified references.
 
@@ -19,6 +31,10 @@ The full PCB model and its installed component references made the placement rel
 ## Keep the reference geometry authoritative
 
 The PCB master sketch and named dimensions carried the positional intent. Over time it accumulated hundreds of constraints. A FreeCAD `App::Link` helped place an object, but did not by itself make downstream geometry depend on the source component. I needed actual geometric references and expressions to carry the relationship forward.
+
+![Original FreeCAD Sketcher master showing board outlines and reference constraints](../assets/images/freecad/doesbot-freecad-master-sketch.jpeg)
+
+*An actual working Sketcher view, before the later assembly and enclosure operations; constraint annotations are visible in the saved screenshot.*
 
 ![FreeCAD-derived R08 housing, screw-axis, and access-tool dependency preview](../assets/images/freecad/r08-master-linked-references.png)
 

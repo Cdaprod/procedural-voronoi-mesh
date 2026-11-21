@@ -14,11 +14,21 @@ The generator is now a standalone Python library, CLI, and local browser for mak
 
 The board already had connectors, terminal screws, headers, and mounting features. Those interfaces set the mechanical problem: an organic surface had to leave the actual hardware usable.
 
+![Top-side photograph of the Doesbot CNC controller board](docs/assets/images/hardware/doesbot-board-top.jpeg)
+
+*Physical top-side board reference from the enclosure work. It documents the overall component layout; the photograph alone is not a dimensioned model.*
+
 ![Real Doesbot controller terminal blocks on the PCB](docs/assets/images/hardware/doesbot-terminal-blocks.jpg)
 
 *User-supplied hardware photograph from the enclosure work. This close-up documents the connector arrangement; it is not a calibrated drawing.*
 
 ## From board references to enclosure geometry
+
+Before building the enclosure, I mapped the board's interfaces in FreeCAD Sketcher. The master sketch records the geometric relationships used to place later component references and enclosure openings.
+
+![Original FreeCAD PCB master sketch with constrained outlines and reference geometry](docs/assets/images/freecad/doesbot-freecad-master-sketch.jpeg)
+
+*Historical FreeCAD sketch screenshot showing dimensional and geometric references. These sketch constraints are design inputs, not evidence that every later physical clearance is accepted.*
 
 The FreeCAD work kept a constrained PCB master and component placements as the reference for openings and access features. The saved V005 component view shows the modeled board and installed connector geometry, including the 8×2 and 10×2 male headers.
 
