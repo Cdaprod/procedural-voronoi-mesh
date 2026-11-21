@@ -1,0 +1,47 @@
+organic-inverted:
+  description: Rounded inward Voronoi relief over a solid slab.
+  config: {mode: inverted, style: organic}
+organic-raised:
+  description: Rounded raised Voronoi cell centers.
+  config: {mode: raised, style: organic}
+flowing-facets:
+  description: Coordinate-warped cells with softened relief.
+  config: {style: flowing, relaxation: 1}
+crystalline:
+  description: Sharper piecewise linear crystalline center peaks.
+  config: {style: crystalline, distribution: jittered}
+low-poly:
+  description: Sparse angular surface sampling and low cell count.
+  config: {style: angular, cells: 20, resolution: 25}
+fractured:
+  description: Clustered sites with varying deterministic peak heights.
+  config: {style: fractured, distribution: clustered}
+protected-boundary:
+  description: Fixed outer boundary and a flat protected central rectangle.
+  config:
+    boundary: 10
+    protected: [{xmin: -15, xmax: 15, ymin: -10, ymax: 10}]
+constant-thickness:
+  description: Vertical constant-thickness shell; normal thickness is not constant.
+  config: {constant_thickness: true, thickness: 3.0}
+doesbot-original:
+  description: Historical seed/cells/relief on a sanitized reference slab, not V23.
+  config: {seed: 20261110, cells: 55, relief: 1.8, width: 130, height: 90}
+fine-facets:
+  description: Fine 90-cell sampling.
+  config: {cells: 90, resolution: 97}
+coarse-facets:
+  description: Coarse 30-cell sampling.
+  config: {cells: 30}
+reinforced:
+  description: Thicker substrate with strict computational validation.
+  config: {thickness: 3.5, minimum_thickness: 2.0, validation: manufacturing}
+fast-preview:
+  description: Quick low-resolution generation.
+  config: {resolution: 25, cells: 20}
+high-detail:
+  description: Dense sampling for export.
+  config: {resolution: 129, cells: 90, quality: high}
+manufacturing:
+  description: Conservative vertical substrate thickness with strict topology gates.
+  config: {thickness: 3.5, minimum_thickness: 2.0, validation: manufacturing}

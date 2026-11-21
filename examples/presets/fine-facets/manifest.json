@@ -1,0 +1,58 @@
+{
+  "configuration": {
+    "border": 7.0,
+    "boundary": 4.0,
+    "cells": 90,
+    "constant_thickness": false,
+    "distribution": "uniform",
+    "formats": [
+      "stl",
+      "obj",
+      "glb",
+      "3mf"
+    ],
+    "height": 90.0,
+    "input": "plane",
+    "minimum_thickness": 1.0,
+    "mode": "raised",
+    "near_area": 1e-10,
+    "protected": [],
+    "quality": "preview",
+    "relaxation": 0,
+    "relief": 1.8,
+    "resolution": 97,
+    "scale": 1.0,
+    "seed": 20261110,
+    "solidify": true,
+    "style": "organic",
+    "thickness": 2.5,
+    "validation": "decorative",
+    "width": 130.0
+  },
+  "dependencies": {
+    "PyYAML": "6.0.4",
+    "libigl": "2.6.3",
+    "manifold3d": "3.5.5",
+    "matplotlib": "3.11.2",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "trimesh": "5.2.1"
+  },
+  "files": {
+    "README.md": "2911304454438178bf1fa34442abaa4c174f4cde44a71a405431eca4eb8ea527",
+    "mesh.3mf": "9d72f2605154a83581b4f510c90751b9b838ec913d7ec31755e007ad0f2e0cc2",
+    "mesh.glb": "9b644d2305a002edf6fa15b69c6a82b63188c558728217d3dbb7f9b3010ba5f8",
+    "mesh.obj": "c10b3983050d4f87d44cc8b543cd7d5ba45de0f23af884bc1c4a1fef3b535eff",
+    "mesh.stl": "91109966ce13256c5ca2ff900e32c1d3b75c8d888105204f3489013b103b9345",
+    "preview.png": "68746b9881dc8661c1996f04389a549ff4575e71eae3d3cab0a468d6fd367c2c",
+    "resolved.yaml": "4df140cf8bf3abf48e8c64f8bf105e28867247ba08ca4a5150c24b6355e008c2",
+    "validation.json": "de845d34451dce34806e619def6385d7ddd45704b17f3954fff124b503252f3a"
+  },
+  "generator_version": "1.0.0",
+  "geometry_sha256": "08fba4870d8157beab4e76138970fa8fd5a4e129b8dd0f84983c0f55e43ef361",
+  "input": null,
+  "preset": "fine-facets",
+  "schema": 1,
+  "seed": 20261110,
+  "validation_pass": true
+}

@@ -1,0 +1,18 @@
+{
+  "source_artifact": "V005_Recovery/directional_v16/replay_55.json",
+  "source_sha256": "53d87d0d16aff61e70cfd5a8c360a99559208da452b0cf4657de816bccca6c99",
+  "historical_configuration": {
+    "seed": 20261110,
+    "cells": 55,
+    "relief_mm": 1.8,
+    "polarity": "center_peaks",
+    "border_mm": 7.0,
+    "perimeter_fade_mm": 4.0,
+    "xy_step_mm": 0.25,
+    "z_step_mm": 0.12,
+    "sdf_smooth_mm": 0.2,
+    "base_smooth_mm": 1.5
+  },
+  "claim": "Historical parameter evidence only; sanitized slab output does not reconstruct V23 enclosure",
+  "enclosure_CAD_redistributed": false
+}

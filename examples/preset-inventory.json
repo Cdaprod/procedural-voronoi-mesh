@@ -1,0 +1,77 @@
+[
+  {
+    "preset": "organic-inverted",
+    "geometry_sha256": "03b2dce59fb400609f4ef6cf88d359574907ce9dfb1cc9a56b7d8d29722cb9a3",
+    "pass": true
+  },
+  {
+    "preset": "organic-raised",
+    "geometry_sha256": "16e39ba47726834147753fface35e9b893d2149fde60282862f5484b45f3413b",
+    "pass": true
+  },
+  {
+    "preset": "flowing-facets",
+    "geometry_sha256": "fb239a794e5e160d8542114436a1866ad38c39d69987b342d7eed928bacdbbd9",
+    "pass": true
+  },
+  {
+    "preset": "crystalline",
+    "geometry_sha256": "7c0ae85774c475126273b37d17bfb59df0ec4a712d93d6b52d6f00eb7e07b347",
+    "pass": true
+  },
+  {
+    "preset": "low-poly",
+    "geometry_sha256": "d781f1a2ba884bdb098bc3987c1939d14f14cd3cbb48eeca13ffd72455adcd35",
+    "pass": true
+  },
+  {
+    "preset": "fractured",
+    "geometry_sha256": "569b3f4af947f85672e54f00c1abba3715fb6dca8b4352ac7cf816d17e9d8769",
+    "pass": true
+  },
+  {
+    "preset": "protected-boundary",
+    "geometry_sha256": "44db5583d3ee32a4e247f82f66011897f8f75ca42483ebf09170440189dce39d",
+    "pass": true
+  },
+  {
+    "preset": "constant-thickness",
+    "geometry_sha256": "aab2ca1216498bc81b33aebeb67f3d73874e9a9d0cc9c243ef81f2666e203d7f",
+    "pass": true
+  },
+  {
+    "preset": "doesbot-original",
+    "geometry_sha256": "16e39ba47726834147753fface35e9b893d2149fde60282862f5484b45f3413b",
+    "pass": true
+  },
+  {
+    "preset": "fine-facets",
+    "geometry_sha256": "08fba4870d8157beab4e76138970fa8fd5a4e129b8dd0f84983c0f55e43ef361",
+    "pass": true
+  },
+  {
+    "preset": "coarse-facets",
+    "geometry_sha256": "80f1f83a7f35a825c989b62822a7d7cdca2085c31475bbe605959aabe9c5c6ca",
+    "pass": true
+  },
+  {
+    "preset": "reinforced",
+    "geometry_sha256": "d26a52413a7a42b02a38ac2e4d1364a7dd725929ae8440cc0e0260fab54f09cd",
+    "pass": true
+  },
+  {
+    "preset": "fast-preview",
+    "geometry_sha256": "e7b0bd10a6dec90a105cc3b3fa6cd3419c074622baa1091d8654302c28b53034",
+    "pass": true
+  },
+  {
+    "preset": "high-detail",
+    "geometry_sha256": "50a6707b5c57e5a94642b8351cc380d16f224c829d47580ec9b41cac6695ca56",
+    "pass": true
+  },
+  {
+    "preset": "manufacturing",
+    "geometry_sha256": "d26a52413a7a42b02a38ac2e4d1364a7dd725929ae8440cc0e0260fab54f09cd",
+    "pass": true
+  }
+]

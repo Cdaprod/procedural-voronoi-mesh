@@ -1,0 +1,42 @@
+{
+  "wheel": "procedural_voronoi_mesh-1.0.0-py3-none-any.whl",
+  "fresh_environment": true,
+  "source_directory_on_pythonpath": false,
+  "commands": [
+    {
+      "command": "voronoi-mesh ",
+      "returncode": 0
+    },
+    {
+      "command": "voronoi-mesh generate --preset organic-inverted --output inverted",
+      "returncode": 0
+    },
+    {
+      "command": "voronoi-mesh generate --seed 42 --output seed42",
+      "returncode": 0
+    },
+    {
+      "command": "voronoi-mesh batch --preset fast-preview --seed 100 --count 2 --output batch",
+      "returncode": 0
+    },
+    {
+      "command": "voronoi-mesh doesbot --output doesbot",
+      "returncode": 0
+    },
+    {
+      "command": "voronoi-mesh reproduce doesbot/manifest.json --output reproduced",
+      "returncode": 0
+    },
+    {
+      "command": "voronoi-mesh validate output/mesh.stl --closed",
+      "returncode": 0
+    },
+    {
+      "command": "voronoi-mesh presets",
+      "returncode": 0
+    }
+  ],
+  "status": "passed",
+  "doesbot_geometry_reproduced": true,
+  "note": "Sanitized Doesbot example only; no exact V23 reconstruction claimed."
+}

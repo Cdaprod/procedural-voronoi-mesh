@@ -1,0 +1,189 @@
+{
+  "exports": {
+    "stl": {
+      "vertices": 850,
+      "faces": 1696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 39574.60065060225,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 6.770830154418945,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "188e02720a54a6d989c882d85565645b48127f2b35f09add397578898d7d4423"
+    },
+    "obj": {
+      "vertices": 850,
+      "faces": 1696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 39574.60018620631,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 6.770833324999996,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "de5b0bbf2ee8973561ba2919da337e35d505de0daf869895e04ec254edcbf7c2"
+    },
+    "glb": {
+      "vertices": 850,
+      "faces": 1696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 39574.60065060225,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 6.770830154418945,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "188e02720a54a6d989c882d85565645b48127f2b35f09add397578898d7d4423"
+    },
+    "3mf": {
+      "vertices": 850,
+      "faces": 1696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 39574.60018608085,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 6.7708333333333215,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "e7b0bd10a6dec90a105cc3b3fa6cd3419c074622baa1091d8654302c28b53034"
+    }
+  },
+  "geometry": {
+    "sites": [
+      [
+        14.625146176085035,
+        -27.914540743992838
+      ],
+      [
+        -41.51430401494822,
+        -4.560965895645648
+      ],
+      [
+        15.977432278404521,
+        -32.51995405615837
+      ],
+      [
+        2.8580742738117118,
+        24.42479549800985
+      ],
+      [
+        24.112169754167194,
+        24.29103889574288
+      ],
+      [
+        12.94323956707994,
+        -3.504340386341273
+      ],
+      [
+        44.32948021850214,
+        24.660723013974728
+      ],
+      [
+        -28.069462926904382,
+        -2.335178197254661
+      ],
+      [
+        21.216879291036943,
+        -29.5911772291436
+      ],
+      [
+        -38.67837761412387,
+        35.54232995823261
+      ],
+      [
+        -32.84875165455181,
+        -27.510273207452585
+      ],
+      [
+        -54.10746250925834,
+        37.69380563001379
+      ],
+      [
+        -26.591304612012447,
+        -9.81060444263801
+      ],
+      [
+        -19.770825805298674,
+        -33.44280025169138
+      ],
+      [
+        13.68291190043699,
+        16.783185648890612
+      ],
+      [
+        -4.6154960242397145,
+        -5.09518704238924
+      ],
+      [
+        46.35707582498379,
+        12.703141074842769
+      ],
+      [
+        -55.82922207430058,
+        -19.018578271897866
+      ],
+      [
+        36.565808264154086,
+        1.2596146690322816
+      ],
+      [
+        36.51846457039602,
+        -36.29009914435153
+      ]
+    ],
+    "protected_displacement_mm": 0.0,
+    "thickness": {
+      "axis": "+Z",
+      "minimum_vertical_mm": 2.5,
+      "normal_thickness_verified": false,
+      "method": "known paired grid vertices; not shortest normal distance"
+    },
+    "input_type": "plane"
+  },
+  "limitations": [
+    "Vertical thickness is not shortest normal thickness.",
+    "Topology does not prove physical printability or fit.",
+    "Imports displace existing +Z-facing vertices and are not remeshed."
+  ]
+}
