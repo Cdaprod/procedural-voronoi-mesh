@@ -21,7 +21,7 @@
   },
   {
     "file": "docs/assets/images/freecad/doesbot-freecad-master-sketch.jpeg",
-    "sha256": "TO_BE_FILLED_FROM_CI",
+    "sha256": "9b229bd9fbc2c45c11b95dc578e77587bdbad8ad67c70ee349dcdb1f9b9210e6",
     "attribution": "David Cannan (Cdaprod)",
     "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
     "status": "historical FreeCAD sketch reference",
@@ -42,7 +42,7 @@
   },
   {
     "file": "docs/assets/images/hardware/doesbot-board-top.jpeg",
-    "sha256": "TO_BE_FILLED_FROM_CI",
+    "sha256": "9ef8647c865113069ff6189b11b4107eaaa9768b531fa29a091a72dfa83146d3",
     "attribution": "David Cannan (Cdaprod)",
     "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
     "status": "physical board-layout reference",
@@ -52,7 +52,7 @@
   },
   {
     "file": "docs/assets/images/hardware/doesbot-stepper-drive-headers.jpeg",
-    "sha256": "TO_BE_FILLED_FROM_CI",
+    "sha256": "34630a9ba78d6f8ee7b2d59a27dba7dd333d88209e7524504e491d10d150b8b8",
     "attribution": "David Cannan (Cdaprod)",
     "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
     "status": "physical interface reference; dimensions and electrical mapping unverified",
@@ -73,7 +73,7 @@
   },
   {
     "file": "docs/assets/images/hardware/mks-driver-adapters.jpeg",
-    "sha256": "TO_BE_FILLED_FROM_CI",
+    "sha256": "4068d983a1501a49b2d8bd3b63065c88ec80e0e966ef21d8129170a5b8b89f11",
     "attribution": "David Cannan (Cdaprod)",
     "source": "User-supplied image committed to public repository in commit 5b4c5e65d7aaefdc09126b59b872b9701334cec3; source EXIF not audited",
     "status": "physical accessory reference; fit and pinout unverified",
