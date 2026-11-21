@@ -1,0 +1,20 @@
+name: tests-and-package
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.11', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '${{ matrix.python }}'
+      - run: python -m pip install -e '.[dev,validation]'
+      - run: ruff check src tests scripts
+      - run: pytest -q
+      - run: python scripts/check_docs.py
+      - run: python -m build
+      - run: python -m pip install --force-reinstall --no-deps dist/*.whl
+      - run: cd /tmp && voronoi-mesh generate --preset fast-preview --output installed-smoke

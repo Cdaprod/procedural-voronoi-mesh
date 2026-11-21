@@ -1,0 +1,162 @@
+[
+  {
+    "file": "docs/assets/images/freecad/r08-master-linked-references.png",
+    "sha256": "0bd54c7ed7661c46aa2cc355eda5edd9c90094aa759db8e2f54ab65c514c3677",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "saved native FreeCAD geometry-derived dependency preview",
+    "caption": "r08 master linked references",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/freecad/r08-master-linked-references.png"
+  },
+  {
+    "file": "docs/assets/images/hardware/doesbot-terminal-blocks.jpg",
+    "sha256": "8b30e0c733939af10fe52f45b756272bbd787782b8219cb8330f9d94ed298731",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "user-supplied real Doesbot PCB photograph; EXIF stripped",
+    "caption": "doesbot terminal blocks",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/hardware/doesbot-terminal-blocks.jpg"
+  },
+  {
+    "file": "docs/assets/images/presets/coarse-facets.png",
+    "sha256": "ba0e1e97aa9f28d2a317e07dcbe233cd156d7847cc6cccc6605fe38cde329040",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "coarse facets",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/coarse-facets.png"
+  },
+  {
+    "file": "docs/assets/images/presets/comparison.png",
+    "sha256": "ba46c5e7455e8875c1133939fddb64ca003d2394d79b2712f754e1279ff122f3",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "comparison",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/comparison.png"
+  },
+  {
+    "file": "docs/assets/images/presets/constant-thickness.png",
+    "sha256": "032e2fd34486685b0e225b7fd12a89abc5bd70c3633937034967006cf9da8243",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "constant thickness",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/constant-thickness.png"
+  },
+  {
+    "file": "docs/assets/images/presets/crystalline.png",
+    "sha256": "db8a771630291bba9c75e257ba0757955f88d6eddec16e7629a6414a59146776",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "crystalline",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/crystalline.png"
+  },
+  {
+    "file": "docs/assets/images/presets/doesbot-original.png",
+    "sha256": "7f4fd00a52d005784ded23eacb1a5dc23ff79f8efbd419b2c1fb9f9a19327115",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "doesbot original",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/doesbot-original.png"
+  },
+  {
+    "file": "docs/assets/images/presets/fast-preview.png",
+    "sha256": "8a75f42e1fdcb80ac4435f670c6c912f589cbc9e96b6423e06b9d40f9b3f1d11",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "fast preview",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/fast-preview.png"
+  },
+  {
+    "file": "docs/assets/images/presets/fine-facets.png",
+    "sha256": "68746b9881dc8661c1996f04389a549ff4575e71eae3d3cab0a468d6fd367c2c",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "fine facets",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/fine-facets.png"
+  },
+  {
+    "file": "docs/assets/images/presets/flowing-facets.png",
+    "sha256": "1ad7e92a58051c8caeacf7690c9ba6bd13c04bbafe5383a8a725feb669340701",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "flowing facets",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/flowing-facets.png"
+  },
+  {
+    "file": "docs/assets/images/presets/fractured.png",
+    "sha256": "d282c65b1905fe06ce3efb420029469cdf56099c71c2921361414a639268a360",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "fractured",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/fractured.png"
+  },
+  {
+    "file": "docs/assets/images/presets/high-detail.png",
+    "sha256": "4d7deafad1c5a45e46d5eaf72940a17615b5572aba63dc750cc1b1ffc84d5fa6",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "high detail",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/high-detail.png"
+  },
+  {
+    "file": "docs/assets/images/presets/low-poly.png",
+    "sha256": "46db07da7a5b4fe45dfdabbebffb0da5bc0dbeb3da9c9d290afeeb5cab6caf58",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "low poly",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/low-poly.png"
+  },
+  {
+    "file": "docs/assets/images/presets/manufacturing.png",
+    "sha256": "49c447452216928c4824a16d284cf7ca69b9027de0a4390a5647b95213685362",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "manufacturing",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/manufacturing.png"
+  },
+  {
+    "file": "docs/assets/images/presets/organic-inverted.png",
+    "sha256": "c86f77fc2b2033133e240459a4cf9226a3fe4a59c4f136b79d8bd27718fb1c44",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "organic inverted",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/organic-inverted.png"
+  },
+  {
+    "file": "docs/assets/images/presets/organic-raised.png",
+    "sha256": "fc00702b9ebf74fb4396b5715b207673a63711ac6f0d5b21d5052bf9ac9838b4",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "organic raised",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/organic-raised.png"
+  },
+  {
+    "file": "docs/assets/images/presets/protected-boundary.png",
+    "sha256": "bdb089041a1e250be272253e425426ab6f4ffa8c64cc546b6b701c48ae6693fb",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "protected boundary",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/protected-boundary.png"
+  },
+  {
+    "file": "docs/assets/images/presets/reinforced.png",
+    "sha256": "7cc002b11ff8f3d294fa2cc156ebf9a585cfc6dba6a9b14ba5da46d8f079c0d8",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual generated preset mesh render",
+    "caption": "reinforced",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/presets/reinforced.png"
+  },
+  {
+    "file": "docs/assets/images/revisions/v24-computational-candidate.png",
+    "sha256": "182f5e6ea7234d15c175a5e5a65e563ece50508b9615f0d04cc415006cf0c6c4",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual V24 computational review-candidate render; physical fit unverified",
+    "caption": "v24 computational candidate",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/revisions/v24-computational-candidate.png"
+  },
+  {
+    "file": "docs/assets/images/revisions/v24-exploded-reference.png",
+    "sha256": "b932b7f58f0152ed2b218f0941e04abc5a27618fbebd94412c538aff010bcdc0",
+    "attribution": "David Cannan (Cdaprod)",
+    "provenance": "actual V24 computational review-candidate render; physical fit unverified",
+    "caption": "v24 exploded reference",
+    "public_url": "https://raw.githubusercontent.com/Cdaprod/procedural-voronoi-mesh/main/docs/assets/images/revisions/v24-exploded-reference.png"
+  }
+]

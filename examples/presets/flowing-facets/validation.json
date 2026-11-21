@@ -1,0 +1,329 @@
+{
+  "exports": {
+    "stl": {
+      "vertices": 5850,
+      "faces": 11696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 38023.82746458789,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 2.0774123072624207,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "8e8da3f67fd2f872987376ca8cdcca1e484b3501eb59c1e65394e5b4444cba47"
+    },
+    "obj": {
+      "vertices": 5850,
+      "faces": 11696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 38023.827304960396,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 2.077414767187494,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "4cbbdc3c1455d6c23c787b9558e3b7fff30892051146ef27cc10c8c13cb1990b"
+    },
+    "glb": {
+      "vertices": 5850,
+      "faces": 11696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 38023.82746458789,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 2.0774123072624207,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "8e8da3f67fd2f872987376ca8cdcca1e484b3501eb59c1e65394e5b4444cba47"
+    },
+    "3mf": {
+      "vertices": 5850,
+      "faces": 11696,
+      "components": 1,
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 38023.82730733124,
+      "positive_volume": true,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "duplicate_faces": 0,
+      "degenerate_faces": 0,
+      "near_zero_faces": 0,
+      "minimum_area_mm2": 2.0774147727272596,
+      "finite": true,
+      "self_intersections": 0,
+      "self_intersection_checker": "libigl/CGAL",
+      "physical_fit": "not assessed",
+      "expected_closed": true,
+      "pass": true,
+      "geometry_sha256": "fb239a794e5e160d8542114436a1866ad38c39d69987b342d7eed928bacdbbd9"
+    }
+  },
+  "geometry": {
+    "sites": [
+      [
+        12.815789473684207,
+        -19.249150072850888
+      ],
+      [
+        -36.768635875402786,
+        10.838938392258312
+      ],
+      [
+        16.38781163434902,
+        14.809859154929589
+      ],
+      [
+        3.237328615656786,
+        2.9818913480885283
+      ],
+      [
+        25.536280701754393,
+        -6.6580281690140755
+      ],
+      [
+        13.299896800825591,
+        2.634078983706156
+      ],
+      [
+        50.71328591749643,
+        31.346022078416397
+      ],
+      [
+        -27.244736842105283,
+        34.498826291079766
+      ],
+      [
+        20.599087313659865,
+        26.373850036635975
+      ],
+      [
+        -38.58392134181611,
+        -18.685342826187938
+      ],
+      [
+        -31.869473684210526,
+        -35.76184379001281
+      ],
+      [
+        -54.445036642238534,
+        -32.688536280977
+      ],
+      [
+        -24.147536842105282,
+        -12.656676056338032
+      ],
+      [
+        -20.782315789473714,
+        19.181971830985905
+      ],
+      [
+        11.722105263157902,
+        -33.297276995305126
+      ],
+      [
+        -5.174937343358396,
+        -1.9369550637156288
+      ],
+      [
+        45.004511278195494,
+        2.733400402414485
+      ],
+      [
+        -54.48336842105265,
+        -10.896901408450704
+      ],
+      [
+        37.28796639486038,
+        -17.269986113866292
+      ],
+      [
+        36.20421052631579,
+        14.296087636932706
+      ],
+      [
+        -42.00421052631579,
+        -31.684507042253536
+      ],
+      [
+        -11.402811376266751,
+        -9.530749715685463
+      ],
+      [
+        -50.215789473684225,
+        -26.403755868544604
+      ],
+      [
+        39.047887323943634,
+        -5.193810751834944
+      ],
+      [
+        38.124893314366986,
+        25.357441948991227
+      ],
+      [
+        -4.557649938800486,
+        11.430287149252099
+      ],
+      [
+        35.39083191850595,
+        35.151294865970016
+      ],
+      [
+        0.8471644226846188,
+        -11.289223714379329
+      ],
+      [
+        -48.675990329179804,
+        29.360971482605827
+      ],
+      [
+        48.08566699768291,
+        -32.82292497121086
+      ],
+      [
+        -42.12631578947371,
+        19.321902429067176
+      ],
+      [
+        55.150877192982456,
+        -27.652582159624433
+      ],
+      [
+        -18.673886639676105,
+        6.597508125677134
+      ],
+      [
+        -51.41432269197582,
+        -21.24174555529904
+      ],
+      [
+        29.11664527171588,
+        -29.60632085194086
+      ],
+      [
+        -9.120130222463377,
+        29.37592565703495
+      ],
+      [
+        16.361079168509505,
+        -5.149721860575207
+      ],
+      [
+        -29.88474576271186,
+        24.656003819527324
+      ],
+      [
+        3.909608884596813,
+        27.173019769996095
+      ],
+      [
+        -53.34296205630354,
+        -16.54176220111365
+      ],
+      [
+        -54.249624060150374,
+        1.261569416498991
+      ],
+      [
+        -45.78947368421052,
+        -27.295774647887345
+      ],
+      [
+        -50.64023071377069,
+        10.469612193710201
+      ],
+      [
+        -47.947900053163195,
+        -2.362498221653151
+      ],
+      [
+        -7.550381003012584,
+        -29.342912695025312
+      ],
+      [
+        -57.34877192982457,
+        1.4985915492957713
+      ],
+      [
+        27.540898116851746,
+        4.60085282336218
+      ],
+      [
+        10.573205741626795,
+        8.539052496798972
+      ],
+      [
+        -37.97743530095957,
+        -6.035172360127633
+      ],
+      [
+        -25.45395564382654,
+        -29.167331030206352
+      ],
+      [
+        53.36224046354415,
+        9.29008915880605
+      ],
+      [
+        -38.24767801857586,
+        -27.400718033692378
+      ],
+      [
+        19.591111111111115,
+        35.69264475743346
+      ],
+      [
+        52.95349766822114,
+        -16.151185594580163
+      ],
+      [
+        -44.034210526315796,
+        -35.88145539906104
+      ]
+    ],
+    "protected_displacement_mm": 0.0,
+    "thickness": {
+      "axis": "+Z",
+      "minimum_vertical_mm": 2.5,
+      "normal_thickness_verified": false,
+      "method": "known paired grid vertices; not shortest normal distance"
+    },
+    "input_type": "plane"
+  },
+  "limitations": [
+    "Vertical thickness is not shortest normal thickness.",
+    "Topology does not prove physical printability or fit.",
+    "Imports displace existing +Z-facing vertices and are not remeshed."
+  ]
+}

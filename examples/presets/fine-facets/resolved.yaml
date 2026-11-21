@@ -1,0 +1,27 @@
+border: 7.0
+boundary: 4.0
+cells: 90
+constant_thickness: false
+distribution: uniform
+formats:
+- stl
+- obj
+- glb
+- 3mf
+height: 90.0
+input: plane
+minimum_thickness: 1.0
+mode: raised
+near_area: 1.0e-10
+protected: []
+quality: preview
+relaxation: 0
+relief: 1.8
+resolution: 97
+scale: 1.0
+seed: 20261110
+solidify: true
+style: organic
+thickness: 2.5
+validation: decorative
+width: 130.0
