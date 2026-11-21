@@ -1,0 +1,1 @@
+A deterministic, seed-driven procedural Voronoi mesh generator for CAD, 3D printing, and geometric surface design.
