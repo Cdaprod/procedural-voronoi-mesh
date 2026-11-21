@@ -1,6 +1,12 @@
 # Generated preset gallery
 
-Every image below is rendered from the actual exported geometry in examples/presets/. Each folder includes STL/OBJ/GLB/3MF, resolved configuration, validation and manifest. Camera conventions are shared; flat/inverted baselines differ as documented.
+This page is the generator sample gallery. These planar samples make preset differences easy to compare; they are not the CNC enclosure. For the real hardware and enclosure development that led to this software, see the [Doesbot engineering case study](../showcase/doesbot-cnc-enclosure.md).
+
+![Saved V23 plus R07 enclosure cover that motivated the procedural geometry work](../assets/images/revisions/v23-r07-cover-oblique.png)
+
+*Saved enclosure geometry from the CAD review history. The enclosure is a computational candidate; physical fit is unverified.*
+
+Every preset image below is rendered from the actual exported geometry in examples/presets/. Each folder includes STL/OBJ/GLB/3MF, resolved configuration, validation and manifest. Camera conventions are shared; flat/inverted baselines differ as documented.
 
 ## organic-inverted
 
